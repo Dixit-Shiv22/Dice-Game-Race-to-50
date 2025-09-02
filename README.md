@@ -1,5 +1,5 @@
 # Dice-Game-Race-to-50
-his is a simple, interactive console-based dice game where 2 to 4 players compete to reach a target score of 50. Each player takes turns rolling a six-sided die, accumulating points for each roll, but if they roll a 1, their turn ends and they lose all points accumulated during that turn.
+This is a simple, interactive console-based dice game where 2 to 4 players compete to reach a target score of 50. Each player takes turns rolling a six-sided die, accumulating points for each roll, but if they roll a 1, their turn ends and they lose all points accumulated during that turn.
 
 Game Rules:
 Players take turns rolling the die.
